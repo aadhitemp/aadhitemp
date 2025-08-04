@@ -1,16 +1,36 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Adithyan 👋</h1>
 
-<!--
-**aadhitemp/aadhitemp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <em>Curious Engineer | Android & Systems Dev | Builder of Things That Shouldn’t Work but Somehow Do</em>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧠 About Me
+
+- 🎯 I'm passionate about building clean, performant Android apps.
+- 🛠️ Currently exploring the lower levels of software with Linux kernel and embedded systems.
+- 🧪 I like experimenting with tech stacks, breaking things (intentionally), and learning from it.
+- 🌍 Based in India | Always open to collaborating on cool ideas.
+
+---
+
+### ⚒️ Tech Stack
+
+- **Languages:** Kotlin, C, Dart, Bash, C#, Python
+- **Mobile:** Android (Jetpack, Clean Architecture, Compose), Flutter (Riverpod, go_router)
+- **Systems:** Linux, Shell scripting, Kernel internals (junior level)
+- **Tools:** Git, VSCode, Android Studio, Hive, Firebase, GitHub Actions
+
+---
+
+### 📫 Reach Me
+
+- ✉️ aadhi.temp@outlook.com 
+- 🧳 [LinkedIn](https://linkedin.com/in/radithyan)
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aadhitemp&show_icons=true&theme=tokyonight" alt="Adithyan's GitHub stats"/>
+</p>
