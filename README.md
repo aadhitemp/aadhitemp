@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Adithyan 👋</h1>
 
 <p align="center">
-  <em>Curious Engineer | Android & Systems Dev | Builder of Things That Shouldn’t Work but Somehow Do</em>
+  <em>Curious Engineer | Android & Systems Dev</em>
 </p>
 
 ---
